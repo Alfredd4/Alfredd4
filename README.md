@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alfredd4
-- 👀 I’m interested in Design
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on design projects
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data analysis and visualization projects
 - 📫 How to reach me via email adelajaalfred6@gmail.com
 
 <!---
